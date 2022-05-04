@@ -12,11 +12,11 @@ Node.js Study
 
 > - [x] Ch 03. 서버 프로그램을 위한 자바스크립트
 
-> - [ ] Ch 04. Node.js 시작하기
+> - [x] Ch 04. Node.js 시작하기
 
 > - [ ] Ch 05. Node.js 내장 모듈과 객체
 
-> - [ ] Ch 06. json-server 이용하기
+> - [x] Ch 06. json-server 이용하기
 
 > - [ ] Ch 07. Express로 웹 서버 구축하기
 
