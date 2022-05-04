@@ -16,7 +16,7 @@ Node.js Study
 
 > - [ ] Ch 05. Node.js 내장 모듈과 객체
 
-> - [x] Ch 06. json-server 이용하기
+> - [x] [Ch 06. json-server 이용하기](https://github.com/ding-co/node-js-study/tree/main/code/ch06/json-server)
 
 > - [ ] Ch 07. Express로 웹 서버 구축하기
 
