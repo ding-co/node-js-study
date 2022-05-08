@@ -20,7 +20,7 @@ Node.js Study
 
 > - [x] [Ch 07. Express로 웹 서버 구축하기](https://github.com/ding-co/node-js-study/tree/main/code/ch07)
 
-> - [ ] [Ch 08. 데이터베이스 사용하기](https://github.com/ding-co/node-js-study/tree/main/code/ch08)
+> - [x] [Ch 08. 데이터베이스 사용하기](https://github.com/ding-co/node-js-study/tree/main/code/ch08)
 
 > - [ ] [Ch 09. 애플리케이션 운영과 고성능 웹을 위한 Node.js](https://github.com/ding-co/node-js-study/tree/main/code/ch09)
 
