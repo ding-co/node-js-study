@@ -24,6 +24,6 @@ Node.js Study
 
 > - [x] [Ch 09. 애플리케이션 운영과 고성능 웹을 위한 Node.js](https://github.com/ding-co/node-js-study/tree/main/code/ch09)
 
-> - [ ] [Ch 10. Node.js 미니 프로젝트: 제품 판매 웹앱 구현](https://github.com/ding-co/node-js-study/tree/main/code/ch10)
+> - [x] [Ch 10. Node.js 미니 프로젝트: 제품 판매 웹앱 구현](https://github.com/ding-co/node-js-study/tree/main/code/ch10)
 
 </details>
